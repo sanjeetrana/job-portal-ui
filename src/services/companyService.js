@@ -32,6 +32,7 @@ export const fetchCompanyById = async (id) => {
 
 /**
  * Fetch a company by name (for detail pages that use company name in URL)
+ * Test commit
  */
 export const fetchCompanyByName = async (name) => {
   await delay();
